@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6267845c-1ef9-46f0-83ea-c326779ea357" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZG0hcG5UjMYNSFix25B35o5KPG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/jianshu/spiders" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\python\PycharmProjects\jianshu\jianshu\spiders" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="start" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="jianshu" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/start.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6267845c-1ef9-46f0-83ea-c326779ea357" name="Default Changelist" comment="" />
+      <created>1584450245457</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584450245457</updated>
+      <workItem from="1584450264288" duration="2342000" />
+      <workItem from="1584461134488" duration="6455000" />
+      <workItem from="1584513381475" duration="7926000" />
+      <workItem from="1584528840773" duration="19659000" />
+      <workItem from="1584594958531" duration="20565000" />
+      <workItem from="1584624048899" duration="19549000" />
+      <workItem from="1584680859483" duration="36542000" />
+      <workItem from="1584730020564" duration="5569000" />
+      <workItem from="1584777002423" duration="4588000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1584716891895">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1584716891895" />
+    <state width="1322" height="184" key="GridCell.Tab.0.bottom" timestamp="1584779078462">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="184" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584779078462" />
+    <state width="1322" height="184" key="GridCell.Tab.0.center" timestamp="1584779078460">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="184" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584779078460" />
+    <state width="1322" height="184" key="GridCell.Tab.0.left" timestamp="1584779078458">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="184" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584779078458" />
+    <state width="1322" height="184" key="GridCell.Tab.0.right" timestamp="1584779078461">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="184" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584779078461" />
+    <state width="1322" height="216" key="GridCell.Tab.1.bottom" timestamp="1584735926314">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="216" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584735926314" />
+    <state width="1322" height="216" key="GridCell.Tab.1.center" timestamp="1584735926313">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="216" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1584735926313" />
+    <state width="1322" height="216" key="GridCell.Tab.1.left" timestamp="1584735926312">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="216" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1584735926312" />
+    <state width="1322" height="216" key="GridCell.Tab.1.right" timestamp="1584735926313">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="216" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1584735926313" />
+    <state x="363" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1584777001252">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="363" y="186" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1584777001252" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1584620427820">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1584620427820" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/jianshu/spiders/test.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="excValue" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/jianshu$start.coverage" NAME="start Coverage Results" MODIFIED="1584779078301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
