@@ -1,4 +1,4 @@
-Scrapy==2.0.0
+Scrapy==2.6.1
 PyMySQL==0.9.3
 selenium==3.141.0
 Twisted==19.10.0
